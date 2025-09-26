@@ -49,3 +49,5 @@ ffmpeg -i input.mp3 -codec:a libmp3lame -b:a 128k fixed.mp3
 
 When you play a file that has ID3 data in an old character encoding (such as Shift JIS), you may see the nostalgic garbled characters.
 
+## Watch VolosR's Original Video
+https://www.youtube.com/watch?v=bU9YBojKZzc
