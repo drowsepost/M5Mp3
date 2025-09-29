@@ -1,4 +1,5 @@
 # M5 AMP for Cardputer + Adv(JPN)
+![Image](https://github.com/user-attachments/assets/ea444707-c0b9-403a-8722-ef2d542db97e)
 VolosR's M5Mp3 fork for Cardputer and Cardputer Adv.
 
 This is a test code for simply using the earphone jack of Cardputer Adv. You may be able to feel the potential of Cardputer Adv as a multimedia device.
