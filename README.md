@@ -38,7 +38,7 @@ This can be avoided by stopping playback with the A key before writing data.
 
 ### Library
 - M5Cardputer 1.1.0
-- schreibfaul1/ESP32-audioI2S-master 3.2.1 (GPL v3)
+- [schreibfaul1/ESP32-audioI2S-master 3.2.1 (GPL v3)](https://github.com/schreibfaul1/ESP32-audioI2S/releases/tag/3.2.1)
 
 ## bug
 Playing mp3 files encoded with older versions of iTunes(ver 6-7) or files that contain data outside the specifications can cause the system to become unstable. This can sometimes be avoided by re-encoding with the latest LAME.
