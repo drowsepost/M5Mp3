@@ -1,5 +1,4 @@
 # M5 AMP for Cardputer + Adv(JPN)
-![Image](https://github.com/user-attachments/assets/ea444707-c0b9-403a-8722-ef2d542db97e)
 VolosR's M5Mp3 fork for Cardputer and Cardputer Adv.
 
 This is a test code for simply using the earphone jack of Cardputer Adv. You may be able to feel the potential of Cardputer Adv as a multimedia device.
@@ -16,12 +15,14 @@ I calling Speaker.begin() to enable output from the ES8311, but it may be possib
 - Code and Library cleanup
 - Usability adjustments
 
+![Image](https://github.com/user-attachments/assets/ea444707-c0b9-403a-8722-ef2d542db97e)
+
 ## Usage
 1. Store MP3 files in the "/music/" folder on your SD card.
 2. When launched, it parses the "/music/" folder and displays a list of files.(Up to 128 files)
 3. Use the Up and Down arrow keys to select a file and press Enter to start playback.
 
-- Press Left and Right arrow keys to adjust the volume in one-level increments.(My personal preference is to use headphones at level 3.)
+- Press Left and Right arrow keys to adjust the volume in one-level increments.(My personal preference is to use headphones at level 1-2.)
 - Press L key to adgust BackLight
 - Press N to play the next file in the current song on Filelist
 - Press P to play the prev file in the current song on Filelist
